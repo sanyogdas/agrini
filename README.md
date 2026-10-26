@@ -19,6 +19,7 @@ Official website and interactive portal for **AGRINI**, the university dance clu
 - `pictures/hero.jpg`: Main club ensemble in traditional attire
 - `pictures/memorylane/unesco.jpg`: Performance at the UNESCO Cultural Heritage Showcase
 - `pictures/memorylane/isa.jpg`: International Students' Association cultural celebration
+- `favicon.svg`: Crimson red dancer vector favicon
 - `nataraj.svg`: Mathematical bezier vector silhouette of Nataraja
 - `sau-logo-white.png`: Official South Asian University crest
 
